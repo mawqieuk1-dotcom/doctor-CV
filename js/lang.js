@@ -14,7 +14,7 @@ const translations = {
         behance_desc: 'معرض أعمالي الاحترافي', dribbble_desc: 'لقطات سريعة من تصاميمي', linkedin_desc: 'شبكتي المهنية',
         contact_title: 'تواصل معي', contact_sub: 'هل لديك مشروع إبداعي؟ دعنا نتحدث!',
         form_name: 'الاسم', form_email: 'البريد الإلكتروني', form_msg: 'الرسالة', form_submit: 'إرسال',
-        copyright: '© 2025 ليلى العتيبي. قالب من <strong>موقعك</strong> – Mawqeak'
+        copyright: '© 2026 ليلى العتيبي. قالب من <strong>موقعك</strong> – Mawqeak'
     },
     en: {
         page_title: 'Laila Al-Otaibi | UI/UX Designer',
@@ -31,7 +31,7 @@ const translations = {
         behance_desc: 'My professional portfolio', dribbble_desc: 'Quick shots of my designs', linkedin_desc: 'My professional network',
         contact_title: 'Contact Me', contact_sub: 'Have a creative project? Let\'s talk!',
         form_name: 'Name', form_email: 'Email', form_msg: 'Message', form_submit: 'Send',
-        copyright: '© 2025 Laila Al-Otaibi. Template by <strong>Mawqeak</strong>'
+        copyright: '© 2026 Laila Al-Otaibi. Template by <strong>Mawqeak</strong>'
     }
 };
 
